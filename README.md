@@ -37,3 +37,9 @@
 
 12. [Bottle song chellenge](https://gist.github.com/ordem-yoo/45296432fbe5c3d3fb80646be7e2e9a4)
 <br>
+
+13. [Pie Maker](https://gist.github.com/ordem-yoo/8ba912f1bec24dbacce84c872bce150d)
+<br>
+
+14. [Lottery ticket](https://gist.github.com/ordem-yoo/75a2177efb969535325615e8c8e96f5a)
+<br>
