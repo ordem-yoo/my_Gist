@@ -43,3 +43,6 @@
 
 14. [Lottery ticket](https://gist.github.com/ordem-yoo/75a2177efb969535325615e8c8e96f5a)
 <br>
+
+15. [class](https://gist.github.com/ordem-yoo/da53c5130c583e17f4a74f10869c82d2)
+<br>
